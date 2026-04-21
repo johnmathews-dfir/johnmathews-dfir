@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hi, I’m John 👋
 
-<!--
-**johnmathews-dfir/johnmathews-dfir** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m a technically curious problem-solver building hands-on experience in digital forensics and cybersecurity.
 
-Here are some ideas to get you started:
+## 🔍 Current focus
+- Digital Forensics & Incident Response (DFIR)
+- Linux and system-level investigation
+- Log analysis and security operations
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧪 Labs
+I’m documenting practical investigations in my [dfir-labs](https://github.com/johnmathews-dfir/dfir-labs) repository.
+
+## 📜 Certifications
+- GIAC GFACT
+- GIAC GSEC
+
+## 🎯 Goal
+To move into a hands-on DFIR or security operations role.
+
+---
+
+Always learning, always building.
